@@ -1,0 +1,10 @@
+Project 1.3 – Jenkins Master-Agent Setup
+
+GitHub Repository:
+https://github.com/ManojKumar8244/parallel-ci-demo
+
+Attached:
+1. Jenkins controller dashboard screenshot
+2. Agent configuration screenshot
+3. Build execution on agent screenshot
+4. Console output logs

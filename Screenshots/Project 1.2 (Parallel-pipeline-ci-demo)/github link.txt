@@ -1,0 +1,1 @@
+https://github.com/ManojKumar8244/parallel-pipeline-ci-demo.git
