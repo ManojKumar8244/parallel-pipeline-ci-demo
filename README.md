@@ -251,21 +251,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-Include screenshots of:
-
-- Jenkins Dashboard
-- Jenkins Controller and Agent Nodes
-- Node Configuration
-- Pipeline Configuration
-- Parallel Pipeline Stage View
-- Successful Build
-- Jenkins Console Output
-- Generated Artifacts (`target/`)
-
----
-
 ## ✅ Project Outcome
 
 Successfully implemented a Jenkins-based distributed build architecture with parallel pipeline execution. By configuring a Jenkins Controller-Agent setup and executing multiple testing stages concurrently, the project significantly reduced build times and improved CI pipeline efficiency. This implementation demonstrates DevOps best practices for scalable, maintainable, and high-performance Continuous Integration workflows.
