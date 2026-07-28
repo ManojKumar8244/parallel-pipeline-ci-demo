@@ -51,6 +51,8 @@ parallel-pipeline-ci-demo/
 │
 ├── src/
 │
+├── Architecture 1.2.png
+├── Architecture 1.3.png
 ├── Jenkinsfile
 ├── README.md
 └── pom.xml
